@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "ds9684466942-web.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    directory: ".", 
+    directory: "content/notes", 
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
